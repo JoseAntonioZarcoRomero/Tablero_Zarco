@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titulo bonito</title>
+</head>
+<body>
 <?php
 
 $size = $_POST["size"];
@@ -21,3 +30,5 @@ for ($i = 0; $i < $size; $i++) {
 echo "</table>";
 
 ?>
+</body>
+</html>
